@@ -121,14 +121,14 @@ Banner
 	min-height: 580px;
 }
 .text-dec{
-	font-size: 24px;
+	font-size: 58px;
 	padding: 10px 20px;
     margin: 15px 0;
 	/*text-transform: uppercase;*/
     color: #fff;
 }
 .text-border{
-	border: 5px solid #8e8c73;
+	/*border: 5px solid #8e8c73;*/
 	display: inline-block;
 	margin-top: 150px;
 }
@@ -241,6 +241,7 @@ Features
 h2{
 	font-size: 24px;
 	padding-bottom: 15px;
+    margin-top: 15px;
 }
 .bottom-line{
 	width: 25px;
@@ -254,7 +255,7 @@ h2{
   width: 20%;
 }
 .heading {
-    width: 80%;
+    /*width: 80%;*/
 }
 .fea i {
     font-size: 39px;
@@ -270,7 +271,7 @@ h2{
     text-align: left;
 }
 .heading p {
-  text-align: left;
+  text-align: justify;
 }
 /***********************************
  Organisations
